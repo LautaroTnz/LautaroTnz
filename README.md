@@ -7,9 +7,9 @@
 
 🧠Me caracterizo por mi enfoque en la resolución de desafíos y la búsqueda de soluciones eficientes en el ámbito del desarrollo de software. Aunque estoy en las primeras etapas de mi carrera, mi capacidad para abordar problemas complejos y aprender rápidamente me ha permitido contribuir de manera significativa en proyectos en los que he participado.
 
-🛠️Mi objetivo es consolidarme como un profesional en el desarrollo de software, contribuyendo de manera activa y comprometida en equipos de IT.
+👨‍🏭Mi objetivo es consolidarme como un profesional en el desarrollo de software, contribuyendo de manera activa y comprometida en equipos de IT.
 
-### Skills:
+### 🛠️Skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-00AA55?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -24,9 +24,7 @@
 
 
 
-## Contacto📩
-
-¡No dudes en contactarme! Puedes encontrarme en:
+### Contacto📩
 
 - Correo electrónico: lautarotintez@gmail.com
 - LinkedIn: [Lautaro Tintez](www.linkedin.com/in/lautarotintez)
