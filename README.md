@@ -24,11 +24,12 @@
 
 
 
-### Contacto📩
+## Contacto:
 
-- Correo electrónico: lautarotintez@gmail.com
-- LinkedIn: [Lautaro Tintez](www.linkedin.com/in/lautarotintez)
-- Sitio web: [Tu Sitio Web](https://www.tusitio.com)
+📩 Correo electrónico: lautarotintez@gmail.com
+
+[![Linkedin: Lautaro Tintez](https://img.shields.io/badge/-Lautaro%20Tintez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lautarotintez/)](https://www.linkedin.com/in/lautarotintez/)
+
 
 <!---
 LautaroTnz/LautaroTnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
