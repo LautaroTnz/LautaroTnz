@@ -1,7 +1,7 @@
 <h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> ¡Bienvenido a mi perfil de Github!</h1>
 
 ### ✨Sobre mí:
-🚀Desarrollador Backend en formación, con experiencia inicial en el desarrollo de aplicaciones web.
+🚀Desarrollador Fullstack en formación, con experiencia inicial en el desarrollo de aplicaciones web.
 
 🧠Me caracterizo por mi enfoque en la resolución de desafíos y la búsqueda de soluciones eficientes en el ámbito del desarrollo de software. Aunque estoy en las primeras etapas de mi carrera, mi capacidad para abordar problemas complejos y aprender rápidamente me ha permitido contribuir de manera significativa en proyectos en los que he participado.
 
