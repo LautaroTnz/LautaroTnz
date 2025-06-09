@@ -3,9 +3,7 @@
 ### ✨Sobre mí:
 🚀Desarrollador backend, con experiencia inicial en el desarrollo de aplicaciones web.
 
-🧠Me caracterizo por mi enfoque en la resolución de desafíos y la búsqueda de soluciones eficientes en el ámbito del desarrollo de software. Aunque estoy en las primeras etapas de mi carrera, mi capacidad para abordar problemas complejos y aprender rápidamente me ha permitido contribuir de manera significativa en proyectos en los que he participado.
-
-👨‍🏭Mi objetivo es consolidarme como un profesional en el desarrollo de software, contribuyendo de manera activa y comprometida en equipos de IT.
+📈Me caracterizo por mi enfoque en la resolución de desafíos y la búsqueda de soluciones eficientes en el ámbito del desarrollo de software. Mi capacidad para abordar problemas complejos y aprender rápidamente me ha permitido contribuir de manera significativa en proyectos en los que he participado.
 
 ### 🛠️Skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
