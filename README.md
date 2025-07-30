@@ -12,36 +12,31 @@
 
 <table>
 <tr>
-<td align="center">
+<td colspan="2" align="center">
 
-### Lenguajes de Programación
+#### Lenguajes de Programación y Frameworks
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 <img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo"  />
-
-</td>
-<td align="center">
-
-### Frameworks
 <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring boot logo"  />
+
 
 </td>
+
 </tr>
 <tr>
 <td align="center">
 
-### Bases de Datos
+#### Bases de Datos
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo"  />
 
 </td>
 <td align="center">
 
-### DevOps & Cloud
+#### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-<img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
 <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 
 </td>
@@ -49,10 +44,13 @@
 <tr>
 <td colspan="2" align="center">
 
-### Herramientas
+#### Herramientas
 <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo"  />
 <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo"  />
+<img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+
 
 </td>
 </tr>
